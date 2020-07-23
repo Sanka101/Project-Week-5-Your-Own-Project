@@ -3,7 +3,7 @@
 # Title of My Project
 *[Your Name]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics 2020, Barcelona & 23 July]*
 
 ## Content
 - [Project Description](#project-description)
@@ -35,4 +35,4 @@ Include links to your repository, slides and kanban board. Feel free to include 
 
 [Repository](https://github.com/)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/KugfpEX7/project-week-5-ironhack)  
