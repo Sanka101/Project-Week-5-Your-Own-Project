@@ -1,0 +1,7 @@
+,matchs,goals,goalsAvg
+matchsPlayed,"{'home': 19, 'away': 19, 'total': 38}",,
+wins,"{'home': 9, 'away': 6, 'total': 15}",,
+draws,"{'home': 4, 'away': 6, 'total': 10}",,
+loses,"{'home': 6, 'away': 7, 'total': 13}",,
+goalsFor,,"{'home': 26, 'away': 16, 'total': 42}","{'home': '1.4', 'away': '0.8', 'total': '1.1'}"
+goalsAgainst,,"{'home': 13, 'away': 20, 'total': 33}","{'home': '0.7', 'away': '1.1', 'total': '0.9'}"
